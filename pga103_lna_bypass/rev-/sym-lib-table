@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "pga103_lna_bypass-rescue")(type "KiCad")(uri "${KIPRJMOD}/pga103_lna_bypass-rescue.kicad_sym")(options "")(descr ""))
+)
